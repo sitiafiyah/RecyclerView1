@@ -5,7 +5,7 @@
 **ScreenShoot 1** <br>
 ![1.1](https://github.com/sitiafiyah/RecyclerView1/blob/master/1.1.png)
 
-**ScreenShoot 2**
+**ScreenShoot 2** <br>
 ![1.2](https://github.com/sitiafiyah/RecyclerView1/blob/master/1.2.png)
 
 * Identitas : 
